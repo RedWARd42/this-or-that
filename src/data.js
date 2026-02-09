@@ -338,102 +338,102 @@ export const gameData = {
   siblingsOrDating: [
     {
       id: 1,
-      image: "public/dating1.png",
+      image: "/dating1.png",
       correctAnswer: "Dating"
     },
     {
       id: 2,
-      image: "public/dating2.png",
+      image: "/dating2.png",
       correctAnswer: "Dating"
     },
     {
       id: 3,
-      image: "public/dating3.png",
+      image: "/dating3.png",
       correctAnswer: "Dating"
     },
     {
       id: 4,
-      image: "public/dating4.png",
+      image: "/dating4.png",
       correctAnswer: "Dating"
     },
     {
       id: 5,
-      image: "public/dating5.png",
+      image: "/dating5.png",
       correctAnswer: "Dating"
     },
     {
       id: 6,
-      image: "public/dating6.png",
+      image: "/dating6.png",
       correctAnswer: "Dating"
     },
     {
       id: 7,
-      image: "public/dating7.png",
+      image: "/dating7.png",
       correctAnswer: "Dating"
     },
     {
       id: 8,
-      image: "public/dating8.png",
+      image: "/dating8.png",
       correctAnswer: "Dating"
     },
     {
       id: 9,
-      image: "public/dating9.png",
+      image: "/dating9.png",
       correctAnswer: "Dating"
     },
     {
       id: 10,
-      image: "public/dating10.png",
+      image: "/dating10.png",
       correctAnswer: "Dating"
     },
     {
       id: 11,
-      image: "public/siblings1.png",
+      image: "/siblings1.png",
       correctAnswer: "Siblings"
     },
     {
       id: 12,
-      image: "public/siblings2.png",
+      image: "/siblings2.png",
       correctAnswer: "Siblings"
     },
     {
       id: 13,
-      image: "public/siblings3.png",
+      image: "/siblings3.png",
       correctAnswer: "Siblings"
     },
     {
       id: 14,
-      image: "public/siblings4.png",
+      image: "/siblings4.png",
       correctAnswer: "Siblings"
     },
     {
       id: 15,
-      image: "public/siblings5.png",
+      image: "/siblings5.png",
       correctAnswer: "Siblings"
     },
     {
       id: 16,
-      image: "public/siblings6.png",
+      image: "/siblings6.png",
       correctAnswer: "Siblings"
     },
     {
       id: 17,
-      image: "public/siblings7.png",
+      image: "/siblings7.png",
       correctAnswer: "Siblings"
     },
     {
       id: 18,
-      image: "public/siblings8.png",
+      image: "/siblings8.png",
       correctAnswer: "Siblings"
     },
     {
       id: 19,
-      image: "public/siblings9.png",
+      image: "/siblings9.png",
       correctAnswer: "Siblings"
     },
     {
       id: 20,
-      image: "public/siblings10.png",
+      image: "/siblings10.png",
       correctAnswer: "Siblings"
     },
 
@@ -545,102 +545,102 @@ export const gameData = {
   aiOrIRL: [
     {
       id: 1,
-      image: "public/ai1.png",
+      image: "/ai1.png",
       correctAnswer: "AI"
     },
     {
       id: 2,
-      image: "public/ai2.png",
+      image: "/ai2.png",
       correctAnswer: "AI"
     },
     {
       id: 3,
-      image: "public/ai3.png",
+      image: "/ai3.png",
       correctAnswer: "AI"
     },
     {
       id: 4,
-      image: "public/ai4.jpg",
+      image: "/ai4.jpg",
       correctAnswer: "AI"
     },
     {
       id: 5,
-      image: "public/ai5.png",
+      image: "/ai5.png",
       correctAnswer: "AI"
     },
     {
       id: 6,
-      image: "public/ai6.png",
+      image: "/ai6.png",
       correctAnswer: "AI"
     },
     {
       id: 7,
-      image: "public/ai7.png",
+      image: "/ai7.png",
       correctAnswer: "AI"
     },
     {
       id: 8,
-      image: "public/ai8.png",
+      image: "/ai8.png",
       correctAnswer: "AI"
     },
     {
       id: 9,
-      image: "public/ai9.png",
+      image: "/ai9.png",
       correctAnswer: "AI"
     },
     {
       id: 10,
-      image: "public/ai10.MP4",
+      image: "/ai10.MP4",
       correctAnswer: "AI"
     },
     {
       id: 11,
-      image: "public/notai1.png",
+      image: "/notai1.png",
       correctAnswer: "IRL"
     },
     {
       id: 12,
-      image: "public/notai2.png",
+      image: "/notai2.png",
       correctAnswer: "IRL"
     },
     {
       id: 13,
-      image: "public/notai3.png",
+      image: "/notai3.png",
       correctAnswer: "IRL"
     },
     {
       id: 14,
-      image: "public/notai4.png",
+      image: "/notai4.png",
       correctAnswer: "IRL"
     },
     {
       id: 15,
-      image: "public/notai5.png",
+      image: "/notai5.png",
       correctAnswer: "IRL"
     },
     {
       id: 16,
-      image: "public/notai6.png",
+      image: "/notai6.png",
       correctAnswer: "IRL"
     },
     {
       id: 17,
-      image: "public/notai7.png",
+      image: "/notai7.png",
       correctAnswer: "IRL"
     },
     {
       id: 18,
-      image: "public/notai8.png",
+      image: "/notai8.png",
       correctAnswer: "IRL"
     },
     {
       id: 19,
-      image: "public/notai9.png",
+      image: "/notai9.png",
       correctAnswer: "IRL"
     },
     {
       id: 20,
-      image: "public/notai10.jpg",
+      image: "/notai10.jpg",
       correctAnswer: "IRL"
     },
   ]
