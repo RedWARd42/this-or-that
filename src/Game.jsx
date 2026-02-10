@@ -192,13 +192,13 @@ function renderButtons(gameMode, question, handleAnswer) {
             className="answer-button"
             onClick={() => handleAnswer('More Famous')}
           >
-            More Famous
+            {question.leftName}
           </button>
           <button
             className="answer-button"
             onClick={() => handleAnswer('Less Famous')}
           >
-            Less Famous
+            {question.rightName}
           </button>
         </>
       );
