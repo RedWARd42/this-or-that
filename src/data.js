@@ -318,29 +318,105 @@ export const gameData = {
   cakeOrNotCake: [
     {
       id: 1,
-      image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500&h=400&fit=crop",
+      image: "/cake1.png",
       correctAnswer: "Cake"
     },
     {
       id: 2,
-      image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=400&fit=crop",
+      image: "/cake2.png",
       correctAnswer: "Cake"
     },
     {
       id: 3,
-      image: "https://images.unsplash.com/photo-1587080195348-2c8aa539873f?w=500&h=400&fit=crop",
-      correctAnswer: "Not Cake"
+      image: "/cake3.png",
+      correctAnswer: "Cake"
     },
     {
       id: 4,
-      image: "https://images.unsplash.com/photo-1585080500244-35fba4dab1a7?w=500&h=400&fit=crop",
+      image: "/cake4.png",
       correctAnswer: "Cake"
     },
     {
       id: 5,
-      image: "https://images.unsplash.com/photo-1476124369162-f4978d90a330?w=500&h=400&fit=crop",
+      image: "/cake5.png",
+      correctAnswer: "Cake"
+    },
+    {
+      id: 6,
+      image: "/cake6.png",
+      correctAnswer: "Cake"
+    },
+    {
+      id: 7,
+      image: "/cake7.png",
+      correctAnswer: "Cake"
+    },
+    {
+      id: 8,
+      image: "/cake8.png",
+      correctAnswer: "Cake"
+    },
+    {
+      id: 9,
+      image: "/cake9.png",
+      correctAnswer: "Cake"
+    },
+    {
+      id: 10,
+      image: "/cake10.png",
+      correctAnswer: "Cake"
+    },
+    {
+      id: 11,
+      image: "/real1.png",
       correctAnswer: "Not Cake"
-    }
+    },
+    {
+      id: 12,
+      image: "/real2.png",
+      correctAnswer: "Not Cake"
+    },
+    {
+      id: 13,
+      image: "/real3.png",
+      correctAnswer: "Not Cake"
+    },
+    {
+      id: 14,
+      image: "/real4.png",
+      correctAnswer: "Not Cake"
+    },
+    {
+      id: 15,
+      image: "/real5.png",
+      correctAnswer: "Not Cake"
+    },
+    {
+      id: 16,
+      image: "/real6.png",
+      correctAnswer: "Not Cake"
+    },
+    {
+      id: 17,
+      image: "/real7.png",
+      correctAnswer: "Not Cake"
+    },
+    {
+      id: 18,
+      image: "/real8.png",
+      correctAnswer: "Not Cake"
+    },
+    {
+      id: 19,
+      image: "/real9.png",
+      correctAnswer: "Not Cake"
+    },
+    {
+      id: 20,
+      image: "/real10.png",
+      correctAnswer: "Not Cake"
+    },
+
   ],
 
   siblingsOrDating: [
