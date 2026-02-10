@@ -311,7 +311,7 @@ export const gameData = {
       rightName: "Jeffrey Epstien",
       leftImage: "/IMG_0788.jpg",
       rightImage: "https://upload.wikimedia.org/wikipedia/commons/6/62/Jeffrey_Epstein_mug_shot.jpg",
-      correctAnswer: "More Famous"
+      correctAnswer: "Less Famous"
     }
   ],
 
