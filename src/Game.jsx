@@ -38,15 +38,8 @@ function Game({ gameMode, onBack }) {
           setFeedback(null);
           setAnswered(false);
 
-          if (feedback === 'correct') {
-            // Go back to home to choose another game
+            // Always go back to home after feedback
             onBack();
-          } else {
-            // Load next question
-            const questions = gameData[gameMode];
-            const randomQuestion = questions[Math.floor(Math.random() * questions.length)];
-            setCurrentQuestion(randomQuestion);
-          }
         }
       };
 
